@@ -6,7 +6,9 @@ MATLAB==R2020a
 # Dataset
 We have provided two samples of graph to be painted in the folder: 'graph1.mat' and 'graph2.mat'. \
 The sample is an n x 2 dimensional matrix/array, where the 1st column represents the abscissa and 2rd column represents ordinate.\
-For example, you may expect the Matrix: $[0,0;1,0;1,1;0,1;0,0]$ to be a unit square.
+For example, you may expect the matrix: $[0,0;1,0;1,1;0,1;0,0]$ to be a unit square. \
+If you have more than two curves in the same graph, we need to insert an Nan between two curves.\
+For example, you may expect the matrix: $[-2,-2;2,-2;2,2;-2,2;-2,-2;NaN,NaN;-1,-1;1,-1;1,1;-1,1;-1,-1]$ to be two squares both centred at origin.
 
 to be a unit square
 # Manual of Codes
