@@ -4,3 +4,4 @@ The details of codes have been demonstrated in our team essay.
 # Version
 MATLAB==R2020a
 # Manual of Codes
+There are two mainly functions: 'zigzag.m' and 'circle.m'
