@@ -10,4 +10,4 @@ For example, you may expect the matrix: $[0,0;1,0;1,1;0,1;0,0]$ to be a unit squ
 If you have more than one curves in the same graph, we need to insert an Nan between two curves.\
 For example, you may expect the matrix: $[-2,-2;2,-2;2,2;-2,2;-2,-2;NaN,NaN;-1,-1;1,-1;1,1;-1,1;-1,-1]$ to be two squares both centred at origin.
 # Manual of Codes
-There are two main functions: 'zigzag.m' and 'circle.m'
+There are two main functions: 'zigzag.m' and 'circle.m', you may run them directly to obtain the result as displayed in video.
